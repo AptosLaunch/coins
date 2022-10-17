@@ -7,4 +7,4 @@ rev = 'main'
 subdir = 'aptos-move/framework/aptos-framework'
 
 [addresses]
-aptos_launch = "7866501bbe315148069163af3d36ef30b8f83de2b47ac9ad242071308a5439e6"
+aptos_launch = "07866501bbe315148069163af3d36ef30b8f83de2b47ac9ad242071308a5439e6"
